@@ -1,0 +1,13 @@
+
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.env
+*.pyc
+
+data/raw/*.csv
+data/cleaned/*.csv
+data/interim/*.csv
+outputs/reports/*.csv
+outputs/forecasts/*.csv

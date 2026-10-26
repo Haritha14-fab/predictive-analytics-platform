@@ -1,0 +1,11 @@
+
+pandas
+numpy
+ucimlrepo
+openpyxl
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+pytest
